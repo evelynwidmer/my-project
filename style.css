@@ -10,6 +10,10 @@ h2 {
   width: 100%;
 }
 
+.col-3 {
+  color: rebeccapurple;
+}
+
 .container {
   width: 50%;
   opacity: 1;
