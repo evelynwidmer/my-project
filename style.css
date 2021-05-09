@@ -10,13 +10,6 @@ h2 {
   width: 100%;
 }
 
-.current-location-button {
-  color: white;
-  border-radius: 50%;
-  border: 1px solid rgb(94, 34, 34);
-  background-color: rgba(238, 160, 173, 0.5);
-}
-
 .container {
   width: 50%;
   opacity: 1;
@@ -57,5 +50,5 @@ h2 {
 i {
   position: relative;
   font-size: 30px;
-  color: blueviolet;
+  color: orange;
 }
