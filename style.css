@@ -30,6 +30,9 @@ li:first-letter {
   text-transform: capitalize;
 }
 
+#search-form {
+  background-color: rgb(142, 95, 230);
+}
 #current-location-button {
   background-color: violet;
 }
