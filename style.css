@@ -30,6 +30,9 @@ li:first-letter {
   text-transform: capitalize;
 }
 
+button {
+  background-color: black;
+}
 .container {
   width: 50%;
   opacity: 1;
