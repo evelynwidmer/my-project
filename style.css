@@ -32,6 +32,7 @@ li:first-letter {
 
 #current-location-button {
   background-color: violet;
+  border-color: violet;
 }
 
 .container {
