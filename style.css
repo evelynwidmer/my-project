@@ -30,7 +30,7 @@ li:first-letter {
   text-transform: capitalize;
 }
 
-#search-form {
+#city-input {
   background-color: rgb(142, 95, 230);
 }
 #current-location-button {
