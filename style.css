@@ -30,6 +30,10 @@ li:first-letter {
   text-transform: capitalize;
 }
 
+#current-location-button {
+  background-color: white;
+}
+
 .container {
   width: 50%;
   opacity: 1;
